@@ -46,3 +46,5 @@ description of project description of project description of project description
 <img src="images/Project 5.png"/>
 <img src="images/Project 5b.png"/>
 <a href="https://github.com/MaryBethHoover/Portfolio">View Project 5</a> 
+
+---
