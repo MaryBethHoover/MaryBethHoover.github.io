@@ -2,11 +2,11 @@
 
 ---
 
-### Project Name 1 
-description of project 
-  <br>
-[Project 1 Title](/sample_page)
+### Project Name 1  
+<br>
+description of project
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Link](/sample_page)
 
 ---
 ### Project Name 2 
