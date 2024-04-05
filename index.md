@@ -6,7 +6,8 @@
 description of project description of project description of project 
 description of project description of project description of project description of project description of project
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project 1.png"/>
+<img src="images/Project 1b.png"/>
 
 ---
 
@@ -14,7 +15,7 @@ description of project description of project description of project description
 description of project description of project description of project 
 description of project description of project description of project description of project description of project
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project 2.png"/>
 
 ---
 
@@ -22,14 +23,14 @@ description of project description of project description of project description
 description of project description of project description of project 
 description of project description of project description of project description of project description of project
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project 3.png"/>
 ---
 
 ### Project Name 4  
 description of project description of project description of project 
 description of project description of project description of project description of project description of project
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project 4.png"/>
 
 ---
 
@@ -37,4 +38,5 @@ description of project description of project description of project description
 description of project description of project description of project 
 description of project description of project description of project description of project description of project
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project 5.png"/>
+<img src="images/Project 5b.png"/>
